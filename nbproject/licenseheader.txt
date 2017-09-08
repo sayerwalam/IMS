@@ -1,0 +1,6 @@
+<!--
+My Project
+
+This is my Project which shows how to handle license file in netbeans
+
+-->
